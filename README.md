@@ -1,15 +1,15 @@
 
-# 💰 Amaraga – Personal Finance Management App
+# Amaraga – Personal Finance Management App
 
 Amaraga is a personal finance management mobile application developed using Flutter and Dart. This application helps users record, manage, and monitor their personal income and expenses in one place.
 
-## 📱 About the Project
+## About the Project
 
 Amaraga was developed as a project for the Mobile Application Programming (Pemrograman Aplikasi Bergerak) course.
 
 The application provides a simple and user-friendly interface to help users manage their daily financial activities.
 
-## ✨ Features
+## Features
 
 - **Dashboard** – Displays total balance, income, expenses, and recent transactions.
 - **Add Transaction** – Record new income and expense transactions.
@@ -18,7 +18,7 @@ The application provides a simple and user-friendly interface to help users mana
 - **Financial Statistics** – View income, expenses, balance, and financial comparisons.
 - **User Profile** – Displays user profile information.
 
-## 🛠️ Built With
+## Built With
 
 - Flutter
 - Dart
@@ -51,7 +51,7 @@ lib/
     └── app_theme.dart
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -85,11 +85,11 @@ lib/
    flutter run
    ```
 
-## 💾 Database
+## Database
 
 Amaraga uses SQLite as its local database to store transaction data, including income and expenses. The database is managed using the `sqflite` package.
 
-## 👩‍💻 Developer
+## Developer
 
 **Amanda Damayanti**
 
